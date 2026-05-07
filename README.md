@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,express,figma,firebase,gcp,html,js,mongodb,mysql,nodejs,opencv,py,pytorch,react,tailwind,tensorflow,arduino&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,latex,bash,git,github,gcp,postman,react,nodejs,nextjs,express,flask,tailwind,pytorch,tensorflow,opencv,figma,firebase,mongodb,mysql,arduino&perline=9)](https://skillicons.dev)
 
 <div align="center"> 
 <i>Random dev joke!</i></br></br>
