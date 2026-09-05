@@ -4,9 +4,7 @@
 
 - 🌱 I'm currently grinding **DSA.**
 
-- 🎯 I'm Looking for **Summer Internship 2026** opportunities  
-
-- 🤝 I'm looking for help with [Vulcan-16](https://github.com/wolgwang1729/Vulcan-16)
+- 🎯 I'm Looking for **Winter Internship 2027** opportunities  
 
 - 💬 Ask me about anything, be it tech or non-tech!
 
